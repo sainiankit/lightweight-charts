@@ -6,7 +6,7 @@ export const priceScaleOptionsDefaults: PriceScaleOptions = {
 	invertScale: false,
 	alignLabels: true,
 	borderVisible: true,
-	borderColor: '#2B2B43',
+	borderColor: '#efefef',
 	entireTextOnly: false,
 	visible: false,
 	ticksVisible: true,
